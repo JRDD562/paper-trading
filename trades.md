@@ -1,0 +1,1 @@
+- 2026-11-20 03:36 UTC (Nov 19, 10:36 PM ET): US market closed (before open); no portfolio initialized yet, no action taken.
