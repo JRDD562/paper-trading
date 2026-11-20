@@ -11,6 +11,6 @@ Rules: $20,000 start on 2026-11-20, ends after the 2026-12-21 close. Goal is to 
 | Cash | - | - | - | - | $20,000.00 |
 
 Total fees paid: $0.00
-Last update: 2026-11-20 15:10 UTC
+Last update: 2026-11-20 20:35 UTC (PM run)
 
 This is a simulation with play money. Nothing here is investment advice.
