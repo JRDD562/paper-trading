@@ -1,16 +1,16 @@
-# Paper Trading Simulation
+# Paper Trading Simulation vs VTI
 
-Rules: $20,000 start on 2026-11-20, ends after the 2026-12-21 close. Goal is to beat buy-and-hold VTI. Long/short stocks and ETFs, no options, no margin, longs <=25%, shorts <=15%, max 3 trades per run.
+Rules: $20,000 start on 2026-11-20, ends after close 2026-12-21. Long/short stocks & ETFs, no options/margin, longs <=25%, shorts <=15%, max 3 trades per run. Goal: beat buy-and-hold VTI.
 
 - Current value: $20,000.00 (+0.00%)
-- VTI buy-and-hold: $20,000.00 (+0.00%)
-- Difference: $0.00
+- VTI buy-and-hold: $20,155.00 (+0.78%)
+- Difference: -0.78%
 
-| Ticker | Side | Shares | Entry | Price | Value |
+| Ticker | Side | Shares | Entry | Current | Value |
 |---|---|---|---|---|---|
 | Cash | - | - | - | - | $20,000.00 |
 
 Total fees paid: $0.00
-Last update: 2026-11-20 20:35 UTC (PM run)
+Last update: 2026-11-23 15:10 UTC
 
 This is a simulation with play money. Nothing here is investment advice.
