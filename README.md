@@ -3,14 +3,14 @@
 Rules: $20,000 start on 2026-11-20, ends after close 2026-12-21. Long/short stocks & ETFs, no options/margin, longs <=25%, shorts <=15%, max 3 trades per run. Goal: beat buy-and-hold VTI.
 
 - Current value: $20,000.00 (+0.00%)
-- VTI buy-and-hold: $20,201.47 (+1.01%)
-- Difference: -1.01%
+- VTI buy-and-hold: $20,100.45 (+0.50%)
+- Difference: -0.50%
 
 | Ticker | Side | Shares | Entry | Current | Value |
 |---|---|---|---|---|---|
 | Cash | - | - | - | - | $20,000.00 |
 
 Total fees paid: $0.00
-Last update: 2026-11-23 20:35 UTC
+Last update: 2026-11-24 15:05 UTC
 
 This is a simulation with play money. Nothing here is investment advice.
