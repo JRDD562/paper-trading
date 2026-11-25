@@ -23,3 +23,7 @@ Portfolio $20,000.00 (+0.00%) vs VTI $20,100.45 (+0.50%)
 ## 2026-11-24 PM
 No trades. VTI $352.59 at 3:35 PM EST per stockanalysis.com (-0.75% on the day). No verified single-name overreaction; holding cash.
 Portfolio $20,000.00 (+0.00%) vs VTI $20,010.22 (+0.05%)
+
+## 2026-11-25 AM
+No trades. VTI $346.82 at 10:05 AM EST per stockanalysis.com (-1.98% vs prior close $353.84). Broad selloff continues; no verified single-name overreaction with reliable quotes, so holding cash (cash is currently beating VTI).
+Portfolio $20,000.00 (+0.00%) vs VTI $19,682.76 (-1.59%)
