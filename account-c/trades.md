@@ -14,3 +14,6 @@ Initial build, 7 positions, no fees on buys. Core idea: diversified quality comp
 Max position 15% (<25%).
 
 Account $20,000.00 (+0.00%) vs VTI $20,000.00 (+0.00%) | invested 95.0%
+
+## 2026-11-27 PM
+Market closed (early 1:00 PM ET close; run fired after close). No trades. Mark-to-market at 1:00 PM EST closes (stockanalysis.com): Account $20,140.21 (+0.70%) vs VTI $20,234.21 (+1.17%)

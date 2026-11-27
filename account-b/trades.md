@@ -12,3 +12,6 @@ Overreaction thesis (mean reversion); no fees on buys.
 Caveat: news search was unavailable, so theses lean on price-vs-52wk-range.
 
 Account $20,000.00 (+0.00%) vs VTI $20,000.00 (+0.00%) | invested 93.0%
+
+## 2026-11-27 PM
+Market closed (early 1:00 PM ET close; run fired after close). No trades. Mark-to-market at 1:00 PM EST closes (stockanalysis.com): Account $20,149.19 (+0.75%) vs VTI $20,234.21 (+1.17%)
