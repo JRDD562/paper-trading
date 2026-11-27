@@ -1,0 +1,16 @@
+{
+  "account": "A",
+  "name": "Discretionary",
+  "start_date": "2026-11-27",
+  "starting_cash": 20000,
+  "cash": 20000,
+  "positions": [],
+  "total_value": 20000,
+  "invested_pct": 0.0,
+  "cumulative_fees": 0.0,
+  "benchmark_vti_start_price": 355.24,
+  "benchmark_vti_shares": 56.299966220020266,
+  "benchmark_vti_value": 20000.0,
+  "last_updated": "2026-11-27 15:10 UTC",
+  "finished": false
+}

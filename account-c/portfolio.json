@@ -1,0 +1,73 @@
+{
+  "account": "C",
+  "name": "Five-year",
+  "start_date": "2026-11-27",
+  "starting_cash": 20000,
+  "cash": 1000.0,
+  "positions": [
+    {
+      "ticker": "MSFT",
+      "side": "long",
+      "shares": 6.118204,
+      "entry_price": 490.34,
+      "current_price": 490.34,
+      "market_value": 3000.0
+    },
+    {
+      "ticker": "GOOGL",
+      "side": "long",
+      "shares": 11.082379,
+      "entry_price": 270.7,
+      "current_price": 270.7,
+      "market_value": 3000.0
+    },
+    {
+      "ticker": "V",
+      "side": "long",
+      "shares": 5.835123,
+      "entry_price": 428.44,
+      "current_price": 428.44,
+      "market_value": 2500.0
+    },
+    {
+      "ticker": "COST",
+      "side": "long",
+      "shares": 2.280481,
+      "entry_price": 1096.26,
+      "current_price": 1096.26,
+      "market_value": 2500.0
+    },
+    {
+      "ticker": "LLY",
+      "side": "long",
+      "shares": 1.806058,
+      "entry_price": 1384.23,
+      "current_price": 1384.23,
+      "market_value": 2500.0
+    },
+    {
+      "ticker": "VXUS",
+      "side": "long",
+      "shares": 38.022814,
+      "entry_price": 78.9,
+      "current_price": 78.9,
+      "market_value": 3000.0
+    },
+    {
+      "ticker": "VTI",
+      "side": "long",
+      "shares": 7.037496,
+      "entry_price": 355.24,
+      "current_price": 355.24,
+      "market_value": 2500.0
+    }
+  ],
+  "total_value": 20000.0,
+  "invested_pct": 95.0,
+  "cumulative_fees": 0.0,
+  "benchmark_vti_start_price": 355.24,
+  "benchmark_vti_shares": 56.299966220020266,
+  "benchmark_vti_value": 20000.0,
+  "last_updated": "2026-11-27 15:10 UTC",
+  "finished": false
+}

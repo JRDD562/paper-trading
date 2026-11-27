@@ -1,0 +1,57 @@
+{
+  "account": "B",
+  "name": "Fully invested",
+  "start_date": "2026-11-27",
+  "starting_cash": 20000,
+  "cash": 1400.0,
+  "positions": [
+    {
+      "ticker": "GOOGL",
+      "side": "long",
+      "shares": 17.731806,
+      "entry_price": 270.7,
+      "current_price": 270.7,
+      "market_value": 4800.0
+    },
+    {
+      "ticker": "MSFT",
+      "side": "long",
+      "shares": 9.789126,
+      "entry_price": 490.34,
+      "current_price": 490.34,
+      "market_value": 4800.0
+    },
+    {
+      "ticker": "V",
+      "side": "long",
+      "shares": 7.002147,
+      "entry_price": 428.44,
+      "current_price": 428.44,
+      "market_value": 3000.0
+    },
+    {
+      "ticker": "VXUS",
+      "side": "long",
+      "shares": 38.022814,
+      "entry_price": 78.9,
+      "current_price": 78.9,
+      "market_value": 3000.0
+    },
+    {
+      "ticker": "LLY",
+      "side": "long",
+      "shares": 2.16727,
+      "entry_price": 1384.23,
+      "current_price": 1384.23,
+      "market_value": 3000.0
+    }
+  ],
+  "total_value": 20000.0,
+  "invested_pct": 93.0,
+  "cumulative_fees": 0.0,
+  "benchmark_vti_start_price": 355.24,
+  "benchmark_vti_shares": 56.299966220020266,
+  "benchmark_vti_value": 20000.0,
+  "last_updated": "2026-11-27 15:10 UTC",
+  "finished": false
+}
